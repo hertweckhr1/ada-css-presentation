@@ -15,12 +15,17 @@ git clone https://github.com/kaidamasaki/ada-css-presentation.git
 ## Step 1: Top Level (together) ##
 
 ### Spec ###
-* `header` should be at the top span width of the entire body.
+* `header` should be at the top span width of the entire body; it
+  should be as tall as its content.
 * `#popular-stories` should be 300px wide and on the right; it should
     be as tall as its content.
 * `main` should sit next to `#popular-stories` on the left and fill
-    the remaining horizontal space; it should be as tall as its content.
-* `footer` should be at the bottom and span the width of the entire body.
+    the remaining horizontal space; it should be as tall as its
+    content.
+* `footer` should be at the bottom and span the width of the entire
+  body; it should be as tall as its content.
+* `#popular-stories` and `main` should have 1px wide black border
+  around them a 20px space between them.
 
 As I mentioned in the presentation the first thing I like to do when I
 start styling a new webpage is position the top level elements.
