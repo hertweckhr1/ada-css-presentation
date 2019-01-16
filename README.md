@@ -40,3 +40,5 @@ visit.
 ### Spec ###
 * `.nav-skip` link should be positioned off of the page _and_ removed
   from the normal page flow.
+* `.nav-skip` should appear in the upper left corner when focused (say
+  by using the tab key).
