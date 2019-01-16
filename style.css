@@ -1,0 +1,26 @@
+/* From fonts.google.com */
+@font-face {
+  font-family: 'Playball';
+  font-style: normal;
+  font-weight: 400;
+  src: url(media/playball.woff2) format('woff2'),
+       url(media/playball.ttf)   format('truetype');
+}
+
+/* From fonts.google.com */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 400;
+  src: url(media/merriweather.woff2) format('woff2'),
+       url(media/merriweather.ttf)   format('truetype');
+}
+
+/* From fonts.google.com */
+@font-face {
+  font-family: 'M PLUS 1p';
+  font-style: normal;
+  font-weight: 400;
+  src: url(media/mplus1p.woff2) format('woff2'),
+       url(media/mplus1p.ttf)   format('truetype');
+}
