@@ -24,7 +24,7 @@ git clone https://github.com/kaidamasaki/ada-css-presentation.git
     content.
 * `footer` should be at the bottom and span the width of the entire
   body; it should be as tall as its content.
-* `#popular-stories` and `main` should have 1px wide black border
+* `#popular-stories` and `main` should have a 1px wide black border
   around them a 20px space between them.
 
 As I mentioned in the presentation the first thing I like to do when I
